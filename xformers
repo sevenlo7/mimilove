@@ -1,0 +1,7 @@
+!pip install https://github.com/camenduru/stable-diffusion-webui-colab/releases/download/0.0.17/xformers-0.0.17+b6be33a.d20230315-cp39-cp39-linux_x86_64.whl
+
+Build Date: Tuesday, March 14, 2023
+
+Build command: !pip wheel git+https://github.com/facebookresearch/xformers#egg=xformers
+
+For Colab Pro Users: please use !pip install --pre xformers
